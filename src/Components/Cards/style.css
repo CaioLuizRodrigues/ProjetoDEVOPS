@@ -1,0 +1,27 @@
+.CardsContainer{
+    background-color: black;
+    padding: 2%;
+}
+
+.ImgLivro{
+    max-width: 350px;
+    max-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+.ButtonCardContainer{
+    background-color: green;
+}
+
+.IconCard{
+    background-color: blue;
+}
+
+.Cards{
+    max-width: 350px;
+    max-height: 350px;
+    background-color: blueviolet;
+}
